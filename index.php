@@ -50,6 +50,11 @@ p {margin:0 0 20px; text-align:center;}
 		This library is ideal for server automation, deployment tools, remote file management, and secure infrastructure operations directly from PHP.
 		</span>
 </div>
+<div style="text-align:center;">
+	<h3>
+		<a href="examples/" target="examples">Click here to check an example</a>
+	</h3>
+</div>
 
 <div>
 	<h5>Usage</h5>
