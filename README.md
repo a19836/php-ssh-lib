@@ -32,7 +32,7 @@ To see a working example, open [index.php](index.php) on your server.
 ## Usage
 
 ```php
-include_once __DIR__ . "/SSHHandler.php";
+include_once __DIR__ . "/lib/SSHHandler.php";
 
 $SSHHandler = new SSHHandler();
 $SSHHandler->setSSHAuthKeyTmpFolderPath($tmp_folder);

@@ -60,7 +60,7 @@ p {margin:0 0 20px; text-align:center;}
 	<h5>Usage</h5>
 	<div class="code">
 		<textarea readonly>
-include_once __DIR__ . "/SSHHandler.php";
+include_once __DIR__ . "/lib/SSHHandler.php";
 
 $SSHHandler = new SSHHandler();
 $SSHHandler->setSSHAuthKeyTmpFolderPath($tmp_folder);

@@ -1,5 +1,5 @@
 <?php
-include_once dirname(__DIR__) . "/SSHHandler.php";
+include_once dirname(__DIR__) . "/lib/SSHHandler.php";
 
 $SSHHandler = new SSHHandler();
 $SSHHandler->setSSHAuthKeyTmpFolderPath("/tmp/");
