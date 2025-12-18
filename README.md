@@ -1,7 +1,7 @@
 # PHP SSH Lib
 
 > Original Repos:   
-> - PHP SSH Lib: https://github.com/a19836/phpsshlib/   
+> - PHP SSH Lib: https://github.com/a19836/php-ssh-lib/   
 > - Bloxtor: https://github.com/a19836/bloxtor/
 
 ## Overview
